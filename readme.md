@@ -12,3 +12,8 @@ These are my solutions for some of the problems found in the Programming Challen
 - [10038 - Jolly Jumpers](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=30&page=show_problem&problem=979)
 - [10050 - Hartals](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=30&page=show_problem&problem=991)
 - [10205 - Stack 'em Up](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=30&page=show_problem&problem=1146)
+
+##Chapter 3
+- [10082 - WERTYU](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=31&page=show_problem&problem=1023)
+- [10252 - Common Permutation](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=31&page=show_problem&problem=1193)
+- [10188 - Automated Judge Script](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=31&page=show_problem&problem=1129)
