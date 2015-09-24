@@ -17,3 +17,8 @@ These are my solutions for some of the problems found in the Programming Challen
 - [10082 - WERTYU](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=31&page=show_problem&problem=1023)
 - [10252 - Common Permutation](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=31&page=show_problem&problem=1193)
 - [10188 - Automated Judge Script](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=31&page=show_problem&problem=1129)
+
+##Chapter 4
+- [10041 - Vito's Family](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=32&page=show_problem&problem=982)
+- [120 - Stacks of Flapjacks](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=32&page=show_problem&problem=56)
+- [10026 - Shoemaker's Problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=32&page=show_problem&problem=967)
