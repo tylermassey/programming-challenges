@@ -22,3 +22,8 @@ These are my solutions for some of the problems found in the Programming Challen
 - [10041 - Vito's Family](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=32&page=show_problem&problem=982)
 - [120 - Stacks of Flapjacks](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=32&page=show_problem&problem=56)
 - [10026 - Shoemaker's Problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=32&page=show_problem&problem=967)
+
+##Chapter 5
+- [10035 - Primary Arithmetic](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=33&page=show_problem&problem=976)
+- [10018 - Reverse and Add](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=33&page=show_problem&problem=976)
+- [701 - The Archeologist's Dilemma](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=33&page=show_problem&problem=642)
